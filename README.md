@@ -20,4 +20,4 @@ this is to make sure the wallpaper covers your screen.
 
 
 ### Do not panic
-if you cant find where to close revert this, just find your way to the "system tray" (the little arrow close to your clock and date in windows) and right click on the little heart icon to close. Either that or just restart your pc.
+if you cant find where to revert this, just find your way to the "system tray" (the little arrow close to your clock and date in windows) and right click on the little heart icon to close. Either that or just restart your pc.
