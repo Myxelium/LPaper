@@ -19,6 +19,9 @@ html {
 
 this is to make sure the wallpaper covers your screen.
 
+### Download
+Latest build can be downloaded here for windows: [Download link](https://github.com/Myxelium/LPaper/releases/download/build/Build.zip)
+
 ### Sad limitations,
 sadly it doesnt support mp4 files since it requires a license. Convert those files to webm. This can be done using ffmpeg or [CloudConvert](https://cloudconvert.com/)
 
