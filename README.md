@@ -20,7 +20,7 @@ html {
 this is to make sure the wallpaper covers your screen.
 
 ### Sad limitations,
-sadly it doesnt support mp4 files since it requires a license. Convert those files to webm. This can be done using ffmpeg or [https://cloudconvert.com/](cloudconvert)
+sadly it doesnt support mp4 files since it requires a license. Convert those files to webm. This can be done using ffmpeg or [CloudConvert]([cloudconvert](https://cloudconvert.com/))
 
 ### Do not panic
 if you cant find where to revert this, just find your way to the "system tray" (the little arrow close to your clock and date in windows) and right click on the little heart icon to close. Either that or just restart your pc.
